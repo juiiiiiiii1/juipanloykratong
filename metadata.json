@@ -1,0 +1,6 @@
+{
+  "name": "จันทร์เพ็ญ — ลอยกระทงคู่กัน",
+  "description": "เว็บลอยกระทงออนไลน์สำหรับคู่รัก เลือกซื้อกระทงแฮนด์เมด เลือกสถานที่ริมน้ำ และเขียนคำอธิษฐานลอยกระทงร่วมกัน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
